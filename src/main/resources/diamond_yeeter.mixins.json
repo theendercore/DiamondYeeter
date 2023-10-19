@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.theendercore.diamond_yeeter.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "diamond_yeeter.refmap.json",
+  "mixins": [
+    "OreFeatureMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
